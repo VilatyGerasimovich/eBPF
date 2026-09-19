@@ -1,0 +1,5 @@
+C:/Users/Gera/source/repos/CMakeProject1_eBPF/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gera/source/repos/CMakeProject1_eBPF/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Gera/source/repos/CMakeProject1_eBPF/out/build/x64-debug/CMakeProject1_eBPF/CMakeFiles/CMakeProject1_eBPF.dir
+C:/Users/Gera/source/repos/CMakeProject1_eBPF/out/build/x64-debug/CMakeProject1_eBPF/CMakeFiles/edit_cache.dir
+C:/Users/Gera/source/repos/CMakeProject1_eBPF/out/build/x64-debug/CMakeProject1_eBPF/CMakeFiles/rebuild_cache.dir
